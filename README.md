@@ -1,1 +1,3 @@
 This is the github account for Sarthak Das. Sarthak Das is presently pursuing an internship at IIT Gandhinagar. He completed his Integrated Bachelors-Masters Degree in Computer Science from the Indian Association for the Cultivation of Sciences, Kolkata in 2023. He is particularly interested in logic and theoretical computer science. You can visit his personal gitlab account [here](https://gitlab.com/dassarthak18). He is also a part of a [joint github account](https://github.com/iacs-csu-2020) for the 2020 Masters batch of IACS Computer Science Unit (CSU) to showcase their work as a group in several projects.
+
+You can check out his writings on Computer Science [here](https://github.com/dassarthak18/my-cs-blogs/tree/main).
